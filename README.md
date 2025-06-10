@@ -57,7 +57,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/your-username/rag-document-qa.git
+git clone https://github.com/Ling-ling123/rag-document-qa.git
 cd rag-document-qa
 ```
 
