@@ -46,7 +46,7 @@
 
 ### AI模型
 - **M3E模型**: 中文语义向量化模型 (`moka-ai/m3e-base`)
-- **OpenAI GPT**: 文本生成和对话
+- **Qwen-turbo**: 文本生成和对话
 
 ## 📦 安装部署
 
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ```bash
 # OpenAI API配置
 OPENAI_API_KEY=your_openai_api_key_here
-OPENAI_BASE_URL=https://api.openai.com/v1  # 可选，默认官方API
+OPENAI_BASE_URL=base_url  # 可选，默认官方API
 
 # SerpAPI配置 (可选，用于联网搜索)
 SERPAPI_API_KEY=your_serpapi_key_here
